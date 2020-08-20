@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\17751-Prvizadatak\17751-Prvizadatak\bin\Debug\17751-Prvizadatak.exe.config
+C:\Users\User\source\repos\17751-Prvizadatak\17751-Prvizadatak\bin\Debug\17751-Prvizadatak.exe
+C:\Users\User\source\repos\17751-Prvizadatak\17751-Prvizadatak\bin\Debug\17751-Prvizadatak.pdb
+C:\Users\User\source\repos\17751-Prvizadatak\17751-Prvizadatak\obj\Debug\17751-Prvizadatak.csprojAssemblyReference.cache
+C:\Users\User\source\repos\17751-Prvizadatak\17751-Prvizadatak\obj\Debug\17751-Prvizadatak.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\17751-Prvizadatak\17751-Prvizadatak\obj\Debug\17751-Prvizadatak.exe
+C:\Users\User\source\repos\17751-Prvizadatak\17751-Prvizadatak\obj\Debug\17751-Prvizadatak.pdb

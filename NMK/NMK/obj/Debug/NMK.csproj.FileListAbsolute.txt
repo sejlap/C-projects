@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\NMK\NMK\bin\Debug\NMK.exe.config
+C:\Users\User\source\repos\NMK\NMK\bin\Debug\NMK.exe
+C:\Users\User\source\repos\NMK\NMK\bin\Debug\NMK.pdb
+C:\Users\User\source\repos\NMK\NMK\obj\Debug\NMK.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\NMK\NMK\obj\Debug\NMK.Form1.resources
+C:\Users\User\source\repos\NMK\NMK\obj\Debug\NMK.Properties.Resources.resources
+C:\Users\User\source\repos\NMK\NMK\obj\Debug\NMK.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\NMK\NMK\obj\Debug\NMK.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NMK\NMK\obj\Debug\NMK.exe
+C:\Users\User\source\repos\NMK\NMK\obj\Debug\NMK.pdb
+C:\Users\User\source\repos\NMK\NMK\obj\Debug\NMK.Pac.resources
+C:\Users\User\source\repos\NMK\NMK\obj\Debug\NMK.Doc.resources
+C:\Users\User\source\repos\NMK\NMK\obj\Debug\NMK.Karton.resources
+C:\Users\User\source\repos\NMK\NMK\obj\Debug\NMK.Tip.resources
+C:\Users\User\source\repos\NMK\NMK\obj\Debug\NMK.Welcome.resources
+C:\Users\User\source\repos\NMK\NMK\obj\Debug\NMK.Registracija_pacijenta.resources

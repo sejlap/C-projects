@@ -1,0 +1,10 @@
+c:\users\user\source\repos\17751Zadatak\17751Zadatak\bin\Debug\17751Zadatak.exe.config
+c:\users\user\source\repos\17751Zadatak\17751Zadatak\bin\Debug\17751Zadatak.exe
+c:\users\user\source\repos\17751Zadatak\17751Zadatak\bin\Debug\17751Zadatak.pdb
+c:\users\user\source\repos\17751Zadatak\17751Zadatak\obj\Debug\17751Zadatak.csprojAssemblyReference.cache
+c:\users\user\source\repos\17751Zadatak\17751Zadatak\obj\Debug\_17751Zadatak.Form1.resources
+c:\users\user\source\repos\17751Zadatak\17751Zadatak\obj\Debug\_17751Zadatak.Properties.Resources.resources
+c:\users\user\source\repos\17751Zadatak\17751Zadatak\obj\Debug\17751Zadatak.csproj.GenerateResource.cache
+c:\users\user\source\repos\17751Zadatak\17751Zadatak\obj\Debug\17751Zadatak.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\17751Zadatak\17751Zadatak\obj\Debug\17751Zadatak.exe
+c:\users\user\source\repos\17751Zadatak\17751Zadatak\obj\Debug\17751Zadatak.pdb

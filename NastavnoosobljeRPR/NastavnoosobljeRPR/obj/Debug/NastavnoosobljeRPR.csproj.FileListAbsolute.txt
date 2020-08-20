@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\NastavnoosobljeRPR\NastavnoosobljeRPR\bin\Debug\NastavnoosobljeRPR.exe.config
+C:\Users\User\source\repos\NastavnoosobljeRPR\NastavnoosobljeRPR\bin\Debug\NastavnoosobljeRPR.exe
+C:\Users\User\source\repos\NastavnoosobljeRPR\NastavnoosobljeRPR\bin\Debug\NastavnoosobljeRPR.pdb
+C:\Users\User\source\repos\NastavnoosobljeRPR\NastavnoosobljeRPR\obj\Debug\NastavnoosobljeRPR.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NastavnoosobljeRPR\NastavnoosobljeRPR\obj\Debug\NastavnoosobljeRPR.Form1.resources
+C:\Users\User\source\repos\NastavnoosobljeRPR\NastavnoosobljeRPR\obj\Debug\NastavnoosobljeRPR.Properties.Resources.resources
+C:\Users\User\source\repos\NastavnoosobljeRPR\NastavnoosobljeRPR\obj\Debug\NastavnoosobljeRPR.csproj.GenerateResource.cache
+C:\Users\User\source\repos\NastavnoosobljeRPR\NastavnoosobljeRPR\obj\Debug\NastavnoosobljeRPR.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NastavnoosobljeRPR\NastavnoosobljeRPR\obj\Debug\NastavnoosobljeRPR.exe
+C:\Users\User\source\repos\NastavnoosobljeRPR\NastavnoosobljeRPR\obj\Debug\NastavnoosobljeRPR.pdb

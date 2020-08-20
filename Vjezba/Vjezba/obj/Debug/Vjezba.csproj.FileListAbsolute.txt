@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Vjezba\Vjezba\bin\Debug\Vjezba.exe.config
+C:\Users\User\source\repos\Vjezba\Vjezba\bin\Debug\Vjezba.exe
+C:\Users\User\source\repos\Vjezba\Vjezba\bin\Debug\Vjezba.pdb
+C:\Users\User\source\repos\Vjezba\Vjezba\obj\Debug\Vjezba.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Vjezba\Vjezba\obj\Debug\Vjezba.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Vjezba\Vjezba\obj\Debug\Vjezba.exe
+C:\Users\User\source\repos\Vjezba\Vjezba\obj\Debug\Vjezba.pdb
